@@ -1,0 +1,85 @@
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+header p{
+    font-size: 60px;
+}
+
+header a{
+    font-size: 60px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 40px;
+    padding: 5px;
+    padding-bottom:  10px;
+    margin: 30px;
+    
+}
+
+.two{
+    background-color: orange;
+}
+
+header {
+    border-bottom:  1px solid black;
+}
+
+main img {
+    width: 500px;
+    height: 300px;
+
+}
+
+.rer{
+    width: 600px;
+    height: 300px;
+}
+
+.d{
+    width: 600px;
+    height: 200px;
+}
+
+
+
+
+
+main h2{
+    font-size: 40px;
+}
+
+main p{
+    font-size: 20px;
+    text-align: center;
+    background-color: orange;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid black;
+    border-bottom: none;
+    border-radius: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top: none;
+}
+
+main h2{
+    font-size: 50px;
+    text-align: center;
+    background-color: orange;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-bottom: 0px;
+}
+
+footer p{
+    background-color: black;
+    padding: 10px;
+    color: white;
+
+}
